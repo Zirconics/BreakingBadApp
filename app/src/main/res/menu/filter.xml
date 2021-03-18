@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/filter"
+        android:icon="@drawable/ic_baseline_filter_alt_24"
+        android:title="filter"
+        app:showAsAction="ifRoom">
+
+        <menu>
+
+            <item
+                android:id="@+id/filter_alive"
+                android:title="@string/alive"/>
+
+            <item
+                android:id="@+id/filter_deceased"
+                android:title="@string/deceased" />
+
+            <item
+                android:id="@+id/filter_presumed_dead"
+                android:title="@string/presumed_dead" />
+
+            <item
+                android:id="@+id/filter_reset"
+                android:title="@string/reset"/>
+        </menu>
+
+    </item>
+
+</menu>

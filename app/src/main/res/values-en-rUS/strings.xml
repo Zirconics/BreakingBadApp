@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Breaking Bad App</string>
+    <string name="character_nickname">"Nickname: "</string>
+    <string name="character_status">"Status: "</string>
+    <string name="character_birthday">"Birthday: "</string>
+    <string name="character_occupation">"Occupation: "</string>
+    <string name="character_appearance">"Appears in season: "</string>
+    <string name="alive">Alive</string>
+    <string name="deceased">Deceaded</string>
+    <string name="presumed_dead">Presumed Dead</string>
+    <string name="reset">Reset</string>
+    <string name="toast_alive">Status Alive was selected</string>
+    <string name="toast_deceased">Status Deceased was selected</string>
+    <string name="toast_presumed_dead">Status Presumed Dead was selected</string>
+    <string name="toast_reset">Status has been reset</string>
+    <string name="showing">"Showing "</string>
+    <string name="toast_characters">" characters"</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ブレキング・バッド</string>
+    <string name="character_nickname">"名前: "</string>
+    <string name="character_status">"ステータス: "</string>
+    <string name="character_birthday">"誕生日: "</string>
+    <string name="character_occupation">"職業: "</string>
+    <string name="character_appearance">"旬を迎える: "</string>
+    <string name="alive">生きている</string>
+    <string name="deceased">死んでる</string>
+    <string name="presumed_dead">多分死んでいる</string>
+    <string name="reset">リセット</string>
+    <string name="toast_alive">ステータス アライブを選択</string>
+    <string name="toast_deceased">ステータス死んでる選択された</string>
+    <string name="toast_presumed_dead">ステータス多分死んでいる選択された</string>
+    <string name="toast_reset">ステータスがリセットされた</string>
+    <string name="showing">"表示 "</string>
+    <string name="toast_characters">" キャラクタ"</string>
+</resources>
